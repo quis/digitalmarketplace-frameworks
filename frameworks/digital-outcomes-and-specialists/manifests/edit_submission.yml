@@ -36,13 +36,14 @@
   questions:
     - outcomesLocations
 
-- name: Agile coach
+- name: Individual specialist roles
   editable: True
+  edit_rows: True
   questions:
-    - agileCoachLocations
-    - agileCoachDayRate
+    - agileCoach
+    - businessAnalyst
 
-- name: Business analyst
+- name: business Analyst
   editable: True
   questions:
     - businessAnalystLocations
